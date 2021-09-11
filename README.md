@@ -13,7 +13,7 @@
 
 Video of making a project from scratch with process of etching with small snippets in polish language. (Image click redirects you to the Youtube video)
 
-[![preview yt video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=syObyWJ59Dc)
+[![preview yt video](project.jpg)](https://www.youtube.com/watch?v=syObyWJ59Dc)
 
 ## Main system elements
 - Raspberry PI 4 B
